@@ -1,0 +1,6 @@
+C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0\SyncWorks.csproj.AssemblyReference.cache
+C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0\SyncWorks.csproj.ResolveComReference.cache
+C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0\SyncWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0\SyncWorks.AssemblyInfoInputs.cache
+C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0\SyncWorks.AssemblyInfo.cs
+C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0\SyncWorks.csproj.CoreCompileInputs.cache

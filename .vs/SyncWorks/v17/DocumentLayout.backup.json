@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\N-1834\\source\\repos\\SyncWorks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3B9CDA-2634-48D8-9B32-719A02B31B1B}|SyncWorks\\SyncWorks.csproj|c:\\users\\n-1834\\source\\repos\\syncworks\\syncworks\\menuribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3B9CDA-2634-48D8-9B32-719A02B31B1B}|SyncWorks\\SyncWorks.csproj|solutionrelative:syncworks\\menuribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuRibbon.cs",
+              "DocumentMoniker": "C:\\Users\\N-1834\\source\\repos\\SyncWorks\\SyncWorks\\MenuRibbon.cs",
+              "RelativeDocumentMoniker": "SyncWorks\\MenuRibbon.cs",
+              "ToolTip": "C:\\Users\\N-1834\\source\\repos\\SyncWorks\\SyncWorks\\MenuRibbon.cs",
+              "RelativeToolTip": "SyncWorks\\MenuRibbon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:46:23.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
