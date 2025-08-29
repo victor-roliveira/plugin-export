@@ -101,3 +101,4 @@ C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0-windows\SyncWo
 C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0-windows\refint\SyncWorks.dll
 C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0-windows\SyncWorks.pdb
 C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0-windows\ref\SyncWorks.dll
+C:\Users\N-1834\source\repos\SyncWorks\SyncWorks\obj\Debug\net8.0-windows\SyncWorks.sourcelink.json

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E3B9CDA-2634-48D8-9B32-719A02B31B1B}|SyncWorks\\SyncWorks.csproj|c:\\users\\n-1834\\source\\repos\\syncworks\\syncworks\\menuribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3B9CDA-2634-48D8-9B32-719A02B31B1B}|SyncWorks\\SyncWorks.csproj|solutionrelative:syncworks\\menuribbon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3B9CDA-2634-48D8-9B32-719A02B31B1B}|SyncWorks\\SyncWorks.csproj|c:\\users\\n-1834\\source\\repos\\syncworks\\syncworks\\commands\\exportkeystylescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3B9CDA-2634-48D8-9B32-719A02B31B1B}|SyncWorks\\SyncWorks.csproj|solutionrelative:syncworks\\commands\\exportkeystylescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +28,23 @@
               "RelativeDocumentMoniker": "SyncWorks\\MenuRibbon.cs",
               "ToolTip": "C:\\Users\\N-1834\\source\\repos\\SyncWorks\\SyncWorks\\MenuRibbon.cs",
               "RelativeToolTip": "SyncWorks\\MenuRibbon.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T16:46:23.889Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportKeyStylesCommand.cs",
+              "DocumentMoniker": "C:\\Users\\N-1834\\source\\repos\\SyncWorks\\SyncWorks\\Commands\\ExportKeyStylesCommand.cs",
+              "RelativeDocumentMoniker": "SyncWorks\\Commands\\ExportKeyStylesCommand.cs",
+              "ToolTip": "C:\\Users\\N-1834\\source\\repos\\SyncWorks\\SyncWorks\\Commands\\ExportKeyStylesCommand.cs",
+              "RelativeToolTip": "SyncWorks\\Commands\\ExportKeyStylesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T13:08:50.546Z",
               "EditorCaption": ""
             }
           ]
